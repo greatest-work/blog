@@ -5,7 +5,12 @@
             themeConfig: {
                 nav: [
                   
-                ]
-            }
+                ],
+                footer: {
+                    message: 'Released under the MIT License.',
+                    copyright: 'Copyright © 2021-present Jiahui Yan'
+                }
+            },
+            
         }
         
